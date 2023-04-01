@@ -2,7 +2,7 @@ import os
 import openai
 
 # Set up the OpenAI API key
-openai.api_key = "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"
+openai.api_key = "api-key"
 
 # Prompt the user for the audio file name
 filename = input("Enter the name of the audio file (including the file extension): ")
